@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.95946fdb.js",
+    "main.css": "/static/css/main.b47916bb.css",
+    "main.js": "/static/js/main.fecfa68b.js",
     "static/js/787.b2e1b36e.chunk.js": "/static/js/787.b2e1b36e.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/myglam.png": "/static/media/myglam.2952168b3dc298f78baa.png",
+    "static/media/shikha.png": "/static/media/shikha.1c4bbb4f2d2771a2ec16.png",
+    "static/media/dermstore.png": "/static/media/dermstore.06229c2af70358fd178d.png",
+    "static/media/Prince_Singh_Resume.pdf": "/static/media/Prince_Singh_Resume.fe22a625bef096161d90.pdf",
+    "static/media/dummy.gif": "/static/media/dummy.8fb99d9a03127d880d14.gif",
+    "static/media/giphy.gif": "/static/media/giphy.72580d024149fc20719a.gif",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.95946fdb.js.map": "/static/js/main.95946fdb.js.map",
+    "main.b47916bb.css.map": "/static/css/main.b47916bb.css.map",
+    "main.fecfa68b.js.map": "/static/js/main.fecfa68b.js.map",
     "787.b2e1b36e.chunk.js.map": "/static/js/787.b2e1b36e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.95946fdb.js"
+    "static/css/main.b47916bb.css",
+    "static/js/main.fecfa68b.js"
   ]
 }
