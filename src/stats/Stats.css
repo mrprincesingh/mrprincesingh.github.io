@@ -1,0 +1,20 @@
+.skillDes{
+    margin-top:40px ;
+    margin-bottom: 30px;
+}
+
+
+#stats img{
+    border:2px solid transparent; 
+    border-radius:20px ;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+   
+}
+
+.git1{
+ margin-bottom: 20px;
+}

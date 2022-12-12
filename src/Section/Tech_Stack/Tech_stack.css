@@ -1,0 +1,78 @@
+
+
+
+.iconsdisigne:hover{
+  background: pink;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+    height: 150px;
+    border-radius: 10px;
+    transition: var(--transition) ;    
+    transition: initial;
+}
+
+.backgroundbody{
+  height: 1400px;
+ 
+
+
+}
+
+ .techcss{
+  padding-top: 50px;
+  margin-bottom: 50px;
+
+ }
+ .headcss{
+  margin-top: 50px;
+  margin-bottom: 30px;
+ }
+ .iconsdisigne{
+  width: 80%;
+  margin: auto;
+  font-size: 70px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin-left: 30px;
+
+ 
+ 
+}
+.iconsbrand{
+  display:grid ;
+  grid-template-columns: repeat(4 , 1fr);
+  gap:3rem;
+ 
+}
+
+@media screen and (max-width:1024px) {
+  .iconsbrand{
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+}
+.backgroundbody{
+  height: auto;
+  margin-bottom: 80px;
+ 
+
+
+}
+}
+
+@media screen and (max-width:480px) {
+  .iconsbrand{
+      grid-template-columns: repeat(2,1fr);
+      gap: 1rem;
+  }
+  h3{
+    font-size: 20px;
+    text-align: center;
+  }
+  .backgroundbody{
+    height: auto;
+    margin-bottom: 30px;
+   
+  
+  
+  }
+}
