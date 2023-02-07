@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mrprincesingh/mrprincesingh.github.io.git/static/css/main.575a7008.css",
-    "main.js": "/mrprincesingh/mrprincesingh.github.io.git/static/js/main.bcfa6d9b.js",
-    "static/media/myglam.png": "/mrprincesingh/mrprincesingh.github.io.git/static/media/myglam.2952168b3dc298f78baa.png",
-    "static/media/prince.png": "/mrprincesingh/mrprincesingh.github.io.git/static/media/prince.1c4bbb4f2d2771a2ec16.png",
-    "static/media/dermstore.png": "/mrprincesingh/mrprincesingh.github.io.git/static/media/dermstore.06229c2af70358fd178d.png",
-    "static/media/airtable.png": "/mrprincesingh/mrprincesingh.github.io.git/static/media/airtable.2a33dbf95961449b8e91.png",
-    "static/media/Prince_Singh_Resume.pdf": "/mrprincesingh/mrprincesingh.github.io.git/static/media/Prince_Singh_Resume.ee41cf561348d6c76d16.pdf",
-    "static/media/dummy.gif": "/mrprincesingh/mrprincesingh.github.io.git/static/media/dummy.8fb99d9a03127d880d14.gif",
-    "index.html": "/mrprincesingh/mrprincesingh.github.io.git/index.html",
-    "main.575a7008.css.map": "/mrprincesingh/mrprincesingh.github.io.git/static/css/main.575a7008.css.map",
-    "main.bcfa6d9b.js.map": "/mrprincesingh/mrprincesingh.github.io.git/static/js/main.bcfa6d9b.js.map"
+    "main.css": "/static/css/main.575a7008.css",
+    "main.js": "/static/js/main.a069d74e.js",
+    "static/media/myglam.png": "/static/media/myglam.2952168b3dc298f78baa.png",
+    "static/media/prince.png": "/static/media/prince.1c4bbb4f2d2771a2ec16.png",
+    "static/media/dermstore.png": "/static/media/dermstore.06229c2af70358fd178d.png",
+    "static/media/airtable.png": "/static/media/airtable.2a33dbf95961449b8e91.png",
+    "static/media/Prince_Singh_Resume.pdf": "/static/media/Prince_Singh_Resume.ee41cf561348d6c76d16.pdf",
+    "static/media/dummy.gif": "/static/media/dummy.8fb99d9a03127d880d14.gif",
+    "index.html": "/index.html",
+    "main.575a7008.css.map": "/static/css/main.575a7008.css.map",
+    "main.a069d74e.js.map": "/static/js/main.a069d74e.js.map"
   },
   "entrypoints": [
     "static/css/main.575a7008.css",
-    "static/js/main.bcfa6d9b.js"
+    "static/js/main.a069d74e.js"
   ]
 }
