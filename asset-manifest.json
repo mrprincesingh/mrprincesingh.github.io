@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.575a7008.css",
-    "main.js": "/static/js/main.0215dd79.js",
+    "main.js": "/static/js/main.14119dff.js",
     "static/media/back.jpg": "/static/media/back.76554835dd76bf3ed056.jpg",
     "static/media/caratelane.png": "/static/media/caratelane.d9cac6cae8750c6892c2.png",
     "static/media/Lime.png": "/static/media/Lime.6ce7ce5417d61b045fe2.png",
@@ -14,10 +14,10 @@
     "static/media/dummy.gif": "/static/media/dummy.8fb99d9a03127d880d14.gif",
     "index.html": "/index.html",
     "main.575a7008.css.map": "/static/css/main.575a7008.css.map",
-    "main.0215dd79.js.map": "/static/js/main.0215dd79.js.map"
+    "main.14119dff.js.map": "/static/js/main.14119dff.js.map"
   },
   "entrypoints": [
     "static/css/main.575a7008.css",
-    "static/js/main.0215dd79.js"
+    "static/js/main.14119dff.js"
   ]
 }
