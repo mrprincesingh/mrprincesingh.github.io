@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.575a7008.css",
-    "main.js": "/static/js/main.524736c2.js",
+    "main.js": "/static/js/main.097fcdde.js",
     "static/media/back.jpg": "/static/media/back.76554835dd76bf3ed056.jpg",
     "static/media/caratelane.png": "/static/media/caratelane.d9cac6cae8750c6892c2.png",
     "static/media/Lime.png": "/static/media/Lime.6ce7ce5417d61b045fe2.png",
@@ -9,15 +9,15 @@
     "static/media/prince.png": "/static/media/prince.1c4bbb4f2d2771a2ec16.png",
     "static/media/dermstore.png": "/static/media/dermstore.06229c2af70358fd178d.png",
     "static/media/course.png": "/static/media/course.924319bb2c910ee39f95.png",
-    "static/media/Prince_Singh_Resume_new.pdf": "/static/media/Prince_Singh_Resume_new.6a87aa295f30dda21dac.pdf",
+    "static/media/Prince_Singh_Resume_new.pdf": "/static/media/Prince_Singh_Resume_new.38e4296635e06bdd0a99.pdf",
     "static/media/airtable.png": "/static/media/airtable.2a33dbf95961449b8e91.png",
     "static/media/dummy.gif": "/static/media/dummy.8fb99d9a03127d880d14.gif",
     "index.html": "/index.html",
     "main.575a7008.css.map": "/static/css/main.575a7008.css.map",
-    "main.524736c2.js.map": "/static/js/main.524736c2.js.map"
+    "main.097fcdde.js.map": "/static/js/main.097fcdde.js.map"
   },
   "entrypoints": [
     "static/css/main.575a7008.css",
-    "static/js/main.524736c2.js"
+    "static/js/main.097fcdde.js"
   ]
 }
